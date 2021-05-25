@@ -1,5 +1,6 @@
 # Output folders
 outputs/
+splitted/
 
 # Music files
 *.mp3
